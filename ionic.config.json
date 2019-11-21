@@ -1,0 +1,7 @@
+{
+  "name": "brazeApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

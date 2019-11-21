@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621548549170",
+    "firebase_url": "https://braze-21333.firebaseio.com",
+    "project_id": "braze-21333",
+    "storage_bucket": "braze-21333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621548549170:android:c1686c60bf56b3ff87782b",
+        "android_client_info": {
+          "package_name": "io.ionic.braze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621548549170-081mnsfqcq0krdmaimae7migq7590u92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWZPMUzwzJ5gDXDved5-dFkWvmNeI-vIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621548549170-081mnsfqcq0krdmaimae7migq7590u92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
